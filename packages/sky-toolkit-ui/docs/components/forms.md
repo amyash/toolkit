@@ -299,11 +299,11 @@ modifier to display them inline.
   <fieldset>
     <legend class="c-form-label c-form-label--group">Which side?</legend>
     <label class="c-form-checkbox c-form-checkbox--radio c-form-checkbox--inline">
-      <input type="radio" class="c-form-checkbox__input" name="f-side" id="f-side_1" value="good">
+      <input type="radio" class="c-form-checkbox__input" name="f-side_inline" id="f-side_inline_1" value="good">
       <span class="c-form-checkbox__caption">Good</span>
     </label>
     <label class="c-form-checkbox c-form-checkbox--radio c-form-checkbox--inline">
-      <input type="radio" class="c-form-checkbox__input" name="f-side" id="f-side_2" value="evil">
+      <input type="radio" class="c-form-checkbox__input" name="f-side_inline" id="f-side_inline_2" value="evil">
       <span class="c-form-checkbox__caption">Evil</span>
     </label>
   </fieldset>
